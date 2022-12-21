@@ -9,4 +9,4 @@ jsontotxt.py
 
 In this experiment, only the traffic light color is detected, so the light.yaml nc is 3. 
 
-The rest of the code is the same as the link https://github.com/WongKinYiu/yolov7/tree/u7.
+The rest of the code is the same as the link https://github.com/WongKinYiu/yolov7/tree/u7. Dataset and link code belong to the same level.Please refer to the picture 1.png、2.png for details.
